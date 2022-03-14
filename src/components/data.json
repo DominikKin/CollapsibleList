@@ -1,0 +1,332 @@
+{
+  "subitems": [
+    {
+      "name": "Poland",
+      "subitems": [
+        {
+          "name": "Warsaw",
+          "subitems": [
+            {
+              "name": "HR",
+              "subitems": []
+            },
+            {
+              "name": "Marketing",
+              "subitems": []
+            },
+            {
+              "name": "IT",
+              "subitems": [
+                {
+                  "name": "Frontend",
+                  "subitems": []
+                },
+                {
+                  "name": "Backend",
+                  "subitems": []
+                },
+                {
+                  "name": "Support",
+                  "subitems": [
+                    {
+                      "name": "Internal",
+                      "subitems": []
+                    },
+                    {
+                      "name": "External",
+                      "subitems": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Security",
+                  "subitems": [
+                    {
+                      "name": "Server Security",
+                      "subitems": []
+                    },
+                    {
+                      "name": "Workstation Security",
+                      "subitems": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kraków",
+          "subitems": [
+            {
+              "name": "HR",
+              "subitems": []
+            },
+            {
+              "name": "Marketing",
+              "subitems": []
+            },
+            {
+              "name": "IT",
+              "subitems": [
+                {
+                  "name": "Frontend",
+                  "subitems": []
+                },
+                {
+                  "name": "Backend",
+                  "subitems": []
+                },
+                {
+                  "name": "Support",
+                  "subitems": [
+                    {
+                      "name": "Internal",
+                      "subitems": []
+                    },
+                    {
+                      "name": "External",
+                      "subitems": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Security",
+                  "subitems": [
+                    {
+                      "name": "Server Security",
+                      "subitems": []
+                    },
+                    {
+                      "name": "Workstation Security",
+                      "subitems": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UK",
+      "subitems": [
+        {
+          "name": "London",
+          "subitems": [
+            {
+              "name": "HR",
+              "subitems": []
+            },
+            {
+              "name": "Marketing",
+              "subitems": []
+            },
+            {
+              "name": "IT",
+              "subitems": [
+                {
+                  "name": "Frontend",
+                  "subitems": []
+                },
+                {
+                  "name": "Backend",
+                  "subitems": []
+                },
+                {
+                  "name": "Support",
+                  "subitems": [
+                    {
+                      "name": "Internal",
+                      "subitems": []
+                    },
+                    {
+                      "name": "External",
+                      "subitems": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Security",
+                  "subitems": [
+                    {
+                      "name": "Server Security",
+                      "subitems": []
+                    },
+                    {
+                      "name": "Workstation Security",
+                      "subitems": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Manchester",
+          "subitems": [
+            {
+              "name": "HR",
+              "subitems": []
+            },
+            {
+              "name": "Marketing",
+              "subitems": []
+            },
+            {
+              "name": "IT",
+              "subitems": [
+                {
+                  "name": "Frontend",
+                  "subitems": []
+                },
+                {
+                  "name": "Backend",
+                  "subitems": []
+                },
+                {
+                  "name": "Support",
+                  "subitems": [
+                    {
+                      "name": "Internal",
+                      "subitems": []
+                    },
+                    {
+                      "name": "External",
+                      "subitems": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Security",
+                  "subitems": [
+                    {
+                      "name": "Server Security",
+                      "subitems": []
+                    },
+                    {
+                      "name": "Workstation Security",
+                      "subitems": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    { "name": "Germany", "subitems": [] },
+    {
+      "name": "France",
+      "subitems": [
+        {
+          "name": "Paris",
+          "subitems": [
+            {
+              "name": "HR",
+              "subitems": []
+            },
+            {
+              "name": "Marketing",
+              "subitems": []
+            },
+            {
+              "name": "IT",
+              "subitems": [
+                {
+                  "name": "Frontend",
+                  "subitems": []
+                },
+                {
+                  "name": "Backend",
+                  "subitems": []
+                },
+                {
+                  "name": "Support",
+                  "subitems": [
+                    {
+                      "name": "Internal",
+                      "subitems": []
+                    },
+                    {
+                      "name": "External",
+                      "subitems": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Security",
+                  "subitems": [
+                    {
+                      "name": "Server Security",
+                      "subitems": []
+                    },
+                    {
+                      "name": "Workstation Security",
+                      "subitems": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lyon",
+          "subitems": [
+            {
+              "name": "HR",
+              "subitems": []
+            },
+            {
+              "name": "Marketing",
+              "subitems": []
+            },
+            {
+              "name": "IT",
+              "subitems": [
+                {
+                  "name": "Frontend",
+                  "subitems": []
+                },
+                {
+                  "name": "Backend",
+                  "subitems": []
+                },
+                {
+                  "name": "Support",
+                  "subitems": [
+                    {
+                      "name": "Internal",
+                      "subitems": []
+                    },
+                    {
+                      "name": "External",
+                      "subitems": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Security",
+                  "subitems": [
+                    {
+                      "name": "Server Security",
+                      "subitems": []
+                    },
+                    {
+                      "name": "Workstation Security",
+                      "subitems": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
